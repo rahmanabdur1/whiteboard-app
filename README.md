@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# MERN Stack Whiteboard App FRont end and Backned
+
+This project is a simple full-stack **Whiteboard App** built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js). It allows users to create, view, update, and delete whiteboard drawings.
+
+## Features
+
+- **MongoDB** for storing drawing data (lines, shapes, and text annotations).
+- **Express.js** for handling backend API requests.
+- **React.js** frontend for displaying and interacting with drawings.
+- **Node.js** for setting up a server and routing.
+- **Axios** for making HTTP requests between frontend and backend.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/MERN-Interview-Test.git
+   cd MERN-Interview-Test

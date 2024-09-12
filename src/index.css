@@ -8,6 +8,38 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
+
+.drawings {
+  max-width: 400px;
+  margin: auto;
+}
+
+.drawings a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50; 
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1b7220; 
+}
+
+
+/* Responsive canvas */
+canvas {
+  border: 1px solid black;
+}
+
